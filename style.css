@@ -1,0 +1,80 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(255, 255, 255);
+    
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
+.name-highlight{
+    color: rgb(0, 171, 238);
+    font-size: 50px;
+    text-align: center;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left:6%;
+    padding-left:3%;
+    
+}
+.half-width img{
+    margin: 30px;
+    width: 50%;
+    padding: 10px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(235, 157, 13);
+    padding:10px 20px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+ .top-banner{
+    background-image: url("/images/");
+    background-repeat: no-repeat;
+}
+
+section{
+    height: 300px;
+    padding-bottom: 100px;
+    
+}
+.single-experience{
+    box-shadow: 10px 10px 40px rgb(97, 96, 96);
+    background-color: rgb(250, 250, 250);
+    margin: 40px;
+    
+}
+.experience-area{
+    background-color: rgb(236, 236, 236);
+    padding: 100px;
+    height: 30%;
+    float: left;
+    display: flex;
+}
+
+#gym{
+    margin: 80px;
+    padding: 40px 30px;
+    border-radius:10px;
+    width: 300px;
+}
+#agency{
+    margin: 80px;
+    padding: 40px 30px;
+    border-radius:10px;
+    width: 300px; 
+}
+#rock{
+    margin: 80px;
+    padding: 40px 30px;
+    border-radius:10px;
+    width: 300px;
+}
